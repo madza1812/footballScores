@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Football Scores</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_text">Test</string>
+    <string name="today" translatable="true">Today</string>
+    <string name="yesterday" translatable="true">Yesterday</string>
+    <string name="tomorrow" translatable="true">Tomorrow</string>
+    <string name="serie_a" translatable="false">Serie A</string>
+    <string name="premier_league" translatable="false">Premier League</string>
+    <string name="champions_league" translatable="false">UEFA Champions League</string>
+    <string name="primera_division" translatable="false">Primera Division</string>
+    <string name="bundesliga" translatable="false">Bundesliga</string>
+    <string name="bundesliga_1" translatable="false">Bundesliga I</string>
+    <string name="bundesliga_2" translatable="false">Bundesliga II</string>
+    <string name="ligue_1" translatable="false">Ligue I</string>
+    <string name="ligue_2" translatable="false">Ligue II</string>
+    <string name="segunda_division" translatable="false">Segunda Division</string>
+    <string name="primera_liga" translatable="false">Primera Liga</string>
+    <string name="bundesliga_3" translatable="false">Bundesliga III</string>
+    <string name="eredivisie" translatable="false">Eredivisie</string>
+    <string name="unknown_league">Unknown League</string>
+    <string name="match_day_CL_group_stages">Group Stages, Match day : </string>
+    <string name="match_day_CL_first_knockout">First Knockout round</string>
+    <string name="match_day_CL_quarter_final">QuarterFinal</string>
+    <string name="match_day_CL_semi_final">SemiFinal</string>
+    <string name="match_day_CL_final">Final</string>
+    <string name="match_day">Match day : </string>
+    <string name="widget_title_today">Today Scores</string>
+    <string name="widget_title_tomorrow">Tomorrow Scores</string>
+    <string name="widget_title_yesterday">Yesterday Scores</string>
+    <string name="matchday_text">Match day</string>
+    <string name="group_stage_text">Group stages</string>
+    <string name="first_knockout_round">First knockout round</string>
+    <string name="quarter_final">Quarter Final</string>
+    <string name="semi_final">Semi Final</string>
+    <string name="final_text">Final</string>
+    <string name="share_text">Share</string>
+    <string name="about">About</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_text">
+        This Application get Football Matches Score for the Premier League,Seria A,Bundesliga,Primera Division
+        and the Uefa Champions League.
+        All Matches data are acquired from football-data.org free API.
+        All team Logos are acquired from http://hdlogo.wordpress.com/ upon requesting permission form the owner.
+        The original version of this app was created by Yahia Khalid Ibn El Walid Ahmed, and a modified version is given to students in the Udacity Android Nanodegree program.
+        To report any bugs,or suggestions do not hesitate to send a mail to y.k.ibnelwalid@gmail.com.
+
+        During the off season, fake data will be added to the app.
+    </string>
+    <string name="widget_text">This is a widget probably.</string>
+    <string name="api_key" translatable="false">b7d65bc92ef64195b0ca009b0c132fd6</string>
+    <!--Added by An Dang-->
+    <string name="ok_alert">OK</string>
+    <string name="network_error_title">No connection</string>
+    <string name="network_error_message">Old data is displayed. Internet is necessary to load the latest data.</string>
+    <string name="empty_view_widget">No match for selected date.</string>
+    <string name="choose_date">Pick A Day</string>
+    <string name="title_activity_widget_setting">Pick A Day</string>
+    <string name="scores_menu_refresh">Refresh</string>
+
+    <!--Content Descriptions-->
+    <string name="a11y_app_name">Football Scores</string>
+    <string name="a11y_home_team">Home team: </string>
+    <string name="a11y_home_team_icon">Home team icon.</string>
+    <string name="a11y_away_team">Away team</string>
+    <string name="a11y_away_team_icon">Away team icon.</string>
+    <string name="a11y_team_no_icon">There is no icon.</string>
+    <string name="a11y_scores">Scores are: </string>
+    <string name="a11y_no_score">There is no score yet.</string>
+    <string name="a11y_match_time">The match time: </string>
+    <string name="a11y_league">League: </string>
+    <string name="a11y_match_day">Match day: </string>
+    <string name="a11y_share_button">Share button.</string>
+    <string name="a11y_page_date_scores"> scores.</string>
+    <string name="a11y_widget_refresh_button">Refresh.</string>
+    <string name="a11y_widget_empty_list">There is no match for selected date.</string>
+
+</resources>

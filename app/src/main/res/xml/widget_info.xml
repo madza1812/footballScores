@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/scores_widget"
+    android:minHeight="@dimen/minWidgetHeight"
+    android:minWidth="@dimen/minWidgetWidth"
+    android:updatePeriodMillis="1800000"
+    android:configure="barqsoft.footballscores.widget.WidgetConfigureActivity"
+    android:minResizeHeight="@dimen/minWidgetHeight"
+    android:minResizeWidth="@dimen/minWidgetWidth"
+    android:previewImage="@drawable/ic_launcher">
+
+</appwidget-provider>
